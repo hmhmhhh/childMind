@@ -20,7 +20,7 @@ HBNデータセットは、5～22歳の約5,000人を対象にした臨床およ
 各参加者の情報を含む。主な項目は以下の通り：
 - **Demographics**：年齢と性別。
 - **Internet Use**：1日のインターネット使用時間。
-- **Children's Global Assessment Scale**：18歳未満の一般的な機能を評価する数値スケール。
+- **Children's Global Assessment Scale**：18歳未満の若者の全般的な機能を評価するために、精神保健の臨床医が使用する数値スケール。
 - **Physical Measures**：血圧、心拍数、身長、体重、腰・臀部のサイズ。
 - **FitnessGram Vitals and Treadmill**：NHANESトレッドミルプロトコルを用いた心肺機能評価。
 - **FitnessGram Child**：5つのパラメータを測定する体力評価。
